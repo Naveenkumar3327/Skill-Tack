@@ -19,14 +19,14 @@
 ---
 
 ## 📦 Tech Stack
+| Layer      | Tech Used                         |
+|------------|----------------------------------|
+| Frontend   | HTML, Tailwind CSS, JavaScript, React |
+| Framework  | Bun + React                      |
+| Backend    | Node.js, Express.js (MERN stack) |
+| Database   | MongoDB                          |
+| Dev Tools  | VS Code, ESLint, Lovable.dev     |
 
-| Layer      | Tech Used               |
-|------------|--------------------------|
-| Frontend   | HTML, Tailwind CSS, JavaScript |
-| Framework  | Bun + React (Assumed from context) |
-| Backend    | (Add if applicable)      |
-| Storage    | Local state or external DB (optional) |
-| Dev Tools  | Lovable.dev, ESLint      |
 
 ---
 
