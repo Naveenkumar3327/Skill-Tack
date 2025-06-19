@@ -41,7 +41,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/skill-track.git
+git clone https://github.com/Naveenkumar3327/Skill-Tack
 cd skill-track
 
 # 2. Install dependencies
