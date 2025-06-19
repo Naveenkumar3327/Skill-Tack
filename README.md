@@ -2,7 +2,7 @@
 
 **Skill Track** is a full-stack web application that helps users track, manage, and showcase their technical skills, certifications, and learning progress in a single dashboard.
 
-🔗 [Live Demo](https://lovable.dev/projects/96fb0d2e-7613-442d-a221-7eaad37ff0d3)
+
 
 ---
 
